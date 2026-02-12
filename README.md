@@ -5,7 +5,7 @@ The images rotate in a circle, creating a smooth 3D effect. It works on all scre
 
 ## What This Project Does
 
-Shows 10 car images in a 3D circle
+Shows n car images in a 3D circle but I only added 10.
 
 The carousel rotates automatically in a full 360° loop
 
